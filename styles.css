@@ -15,10 +15,10 @@
     height: 500px;
 }
 .logo {
-    width: 100px;
+    width: 125px;
     height: 100%;
     margin: 0px;
-    margin-left: 20px;
+    margin-left: 30px;
 }
 h2 {
     margin: 0%;
@@ -72,7 +72,7 @@ h6 {
     padding: 10px 40px;
     display: flex;
     justify-content: center;
-    margin-top: 125px;
+    margin-top: 120px;
 }
 @keyframes jss141 {
     11.11111% {
@@ -103,9 +103,30 @@ body {
     display: flex;
     min-height: 100vh;
     flex-direction: column;
-    height: 1000px;
-  }
+}
 
   main {
     flex: 1 0 auto;
-  }
+}
+/* width */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #f1f1f1; 
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #888; 
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #555; 
+}
+#about {
+    height: 1000px;
+}

@@ -1,1 +1,2 @@
-# Dream Project Co. - Mission Bit
+# Dream Project Co.
+# Mission Bit Collab
