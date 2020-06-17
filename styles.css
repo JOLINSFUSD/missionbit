@@ -72,7 +72,7 @@ h6 {
     padding: 10px 40px;
     display: flex;
     justify-content: center;
-    margin-top: 120px;
+    margin-top: 160px;
 }
 @keyframes jss141 {
     11.11111% {
@@ -128,5 +128,8 @@ body {
   background: #555; 
 }
 #about {
-    height: 1000px;
+    height: 200px;
+}
+.body {
+    padding-bottom: 50px;
 }
